@@ -17,7 +17,7 @@ stylus -w style.styl -o style.css
 
 git init
 git add .
-git commit -m
+git commit -m "First commit"
 git status
 git log
 
