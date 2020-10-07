@@ -1,0 +1,25 @@
+// Pug Installation
+
+npm install pug
+npm install pug-cli -g
+pug -w ./ -o ./html -P
+
+
+
+// Stylus Installation
+
+npm install stylus -g
+stylus -w style.styl -o style.css
+
+
+
+// Git
+
+git init
+git add .
+git commit -m
+git status
+git log
+
+git remote add origin https://github.com/torbenmueller/Projektname.git
+git push -u origin master
